@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hello everybody!
+
+My name is Eduardo and I go to CSUB.
